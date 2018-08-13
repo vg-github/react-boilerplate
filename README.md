@@ -1,2 +1,3 @@
-# react-boilerplate
-A React with 'babel' and 'webpack' boilerplate.
+React Boilerplate 
+
+A React boilerplate with `babel` and `webpack`.
